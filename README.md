@@ -24,6 +24,11 @@ flowchart LR
 
 This flow shows the general path of the repository: first understanding the data, then preparing it, training regression models, moving into classification tasks, and finally comparing model behavior.
 
+<img width="1693" height="929" alt="image" src="https://github.com/user-attachments/assets/317a24f6-65eb-47eb-95e4-b71b4adaac4e" />
+
+
+
+
 ## Topics Covered
 
 - Simple Linear Regression
