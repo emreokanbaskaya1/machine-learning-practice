@@ -53,7 +53,6 @@ This flow shows the general path of the repository: first understanding the data
 | `7-LogisticRegressionMultiClass.ipynb` | Multiclass classification practice. |
 | `8-LogisticRegressionAdvanced.ipynb` | More advanced logistic regression workflow using fraud detection data. |
 | `9-SVMClassifier.ipynb` | Support Vector Machine classification examples. |
-| `Lineer Regression Weather Conditions in World War Two/` | A separate regression analysis project using World War Two weather data. |
 
 The repository also includes the CSV datasets used by the notebooks, such as study hours, customer satisfaction, bank customers, cyber attack data, fraud detection, loan risk, email classification, and seismic activity datasets.
 
